@@ -1,0 +1,12 @@
+here's the some references I have used
+
+
+1. https://grpc.io/docs/what-is-grpc/introduction/#:~:text=gRPC%20clients%20and%20servers%20can,Go%2C%20Python%2C%20or%20Ruby.
+
+2. https://thenewstack.io/grpc-a-deep-dive-into-the-communication-pattern/
+
+3. https://grpc.io/docs/what-is-grpc/core-concepts/
+
+4. https://grpc.io/docs/languages/go/basics/
+
+5. https://tamerlan.dev/the-beginners-guide-to-grpc-with-examples/
